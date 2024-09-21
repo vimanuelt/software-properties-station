@@ -1,4 +1,5 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python
+# Filename: config.py
 
 def load_repos():
     repos = {
@@ -7,4 +8,3 @@ def load_repos():
         "GhostBSD_France": ("https://pkg.fr.ghostbsd.org/unstable/${ABI}/latest", "https://pkg.fr.ghostbsd.org/unstable/${ABI}/base"),
     }
     return repos
-
