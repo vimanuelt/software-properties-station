@@ -36,6 +36,11 @@ The `software-properties-station` app is a simple graphical and command-line app
    sudo pip install . 
    ```
 
+4. Create a directory for the `.log` file:
+   ```bash
+   sudo mkdir /var/log/software-properties-station
+   ```
+
 ## Usage
 
 ### Graphical Interface
