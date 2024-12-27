@@ -28,7 +28,7 @@ The `software-properties-station` app is a simple graphical and command-line app
 
 2. Install the required dependencies:
    ```bash
-   sudo pkg install gtk4 pygobject3-common
+   sudo pkg install gtk4 pygobject-common
    ```
 
 3. Install the application using `pip`:
