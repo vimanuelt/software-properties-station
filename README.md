@@ -28,7 +28,7 @@ Software Properties Station is a GUI and CLI tool for managing package repositor
 
 ## Requirements
 
-- **Python**: Version 3.6 or later.
+- **Python**: version 3.6 or later.
 - **GTK 4**: For the GUI.
 - **Root Privileges**: Required for modifying system configuration files.
 
