@@ -77,6 +77,9 @@ The main configuration file is located at:
 ```
 
 ### Example Configuration
+The configuration uses the following variables:
+- `${ABI}`: System architecture and version (e.g., "FreeBSD:13:amd64" for 64-bit FreeBSD 13)
+
 ```plaintext
 GhostBSD: {
   url: "https://pkg.ghostbsd.org/stable/${ABI}/latest",
